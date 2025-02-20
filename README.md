@@ -1,2 +1,2 @@
-# AI Virtual Mouse
-AI Virtual Mouse uses hand gestures to control a computer's mouse without a physical mouse. It can be used in situations where it's not possible to use a physical mouse, such as in confined spaces or when it's not safe to touch devices. 
+# AI FINAL YEAR PROJECT
+A final year project using AI typically involves developing an application or system that leverages artificial intelligence techniques like machine learning, deep learning, or natural language processing to solve a specific problem within a chosen domain, often drawing on real-world data to train and test the AI model, demonstrating a comprehensive understanding of AI concepts and their practical implementation.
